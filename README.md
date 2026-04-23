@@ -4,19 +4,6 @@ Uma calculadora simples com interface gráfica desenvolvida em Python utilizando
 
 ---
 
-## 🚀 Funcionalidades
-
-✔ Interface moderna
-✔ Operações básicas (+, -, ×, ÷)
-✔ Design organizado
-✔ Fácil de usar
-
----
-
-## 📸 Preview
-
-<img src="https://via.placeholder.com/600x300.png?text=Preview+da+Calculadora" />
-
 ---
 
 ## 🛠 Tecnologias utilizadas
@@ -55,14 +42,6 @@ Calculadora/
 
 ---
 
-## 📌 Melhorias futuras
-
-* [x] Histórico de cálculos
-* [x] Tema escuro
-* [x] Teclado funcional
-* [x] Versão mobile
-
----
 
 ## 👨‍💻 Autor
 
